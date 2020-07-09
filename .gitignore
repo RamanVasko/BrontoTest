@@ -1,0 +1,5 @@
+.idea
+resources
+build
+target
+*.iml
